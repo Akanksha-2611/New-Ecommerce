@@ -17,7 +17,7 @@ const Home = () => {
    <Register/>
    <LocationSprade/>
    <AboutUs/>
-   <AppSection/>
+   {/* <AppSection/> */}
    {/* <Sponser/> */}
    {/* <Footer/> */}
     </div>
